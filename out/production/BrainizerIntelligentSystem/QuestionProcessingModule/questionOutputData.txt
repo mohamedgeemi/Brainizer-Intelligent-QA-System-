@@ -1,0 +1,500 @@
+DESC:manner HOW # develop develop complicate change
+ENTY:cremat WHAT # films movie show social_event event psychological_feature abstraction entity
+DESC:manner HOW # find witness experience undergo change
+ENTY:animal WHAT # fowl bird meat food solid matter physical_entity entity
+ABBR:exp WHAT # form phase state_of_matter chemical_phenomenon natural_phenomenon phenomenon process physical_entity
+HUM:ind WHAT # scoundrel villain unwelcome_person person organism living_thing whole object
+HUM:gr WHAT # team team unit organization social_group group abstraction entity
+HUM:title WHAT DESC:def #
+DESC:def WHAT DESC:def #
+HUM:ind OTHER # bounty Bounty ship vessel craft vehicle conveyance instrumentality
+NUM:date WHEN # #
+DESC:reason WHY # #
+HUM:ind WHO # Pride pride trait attribute abstraction entity
+HUM:ind WHO # Gandhi Gandhi statesman politician leader person organism living_thing
+ENTY:event WHAT # disaster catastrophe adversity misfortune fortune condition state attribute
+LOC:state WHAT # U.S. United_States_government federal_government government polity organization social_group group
+DESC:desc WHAT # amendment amendment statement message communication abstraction entity
+NUM:count HOW # many many
+DESC:def WHAT # Nine nine-spot spot playing_card card paper material substance
+DESC:def WHAT DESC:def #
+NUM:date WHAT # date date day time_unit measure abstraction entity
+ENTY:other WHAT # articles article section writing written_communication communication abstraction entity
+HUM:ind OTHER # martyrs martyr victim unfortunate person organism living_thing whole
+DESC:desc WHAT DESC:def #
+DESC:desc WHAT # origin origin intersection set abstraction entity
+ENTY:letter WHAT # vowel vowel letter character written_symbol symbol signal communication
+HUM:ind WHO # inventor inventor creator person organism living_thing whole object
+LOC:other WHAT # waterfall waterfall body_of_water thing physical_entity entity
+ENTY:other OTHER # golf golf outdoor_game athletic_game sport diversion activity act
+LOC:state WHICH # states state emotional_state emotion feeling state attribute abstraction
+ABBR:exp WHAT # abbreviation abbreviation form word language_unit part relation abstraction
+ENTY:other WHAT # #
+NUM:count HOW # many many
+HUM:gr WHICH # company ship's_company complement work_force force organization social_group group
+NUM:count HOW # many many
+DESC:desc WHAT # Mormons Church_of_Jesus_Christ_of_Latter-Day_Saints Protestant_denomination denomination nongovernmental_organization organization social_group group
+NUM:date WHEN # #
+ENTY:religion WHAT # religion religion belief content cognition psychological_feature abstraction entity
+LOC:other WHERE # #
+ENTY:animal WHAT # relative relative organism living_thing whole object physical_entity entity
+DESC:manner HOW # register file register record save keep have
+ENTY:other WHAT # Colonel colonel commissioned_military_officer commissioned_officer military_officer serviceman skilled_worker worker
+NUM:count HOW # many many
+NUM:count HOW # many many
+DESC:manner HOW # find find perceive
+HUM:ind WHAT # 1920s date day time_unit measure abstraction entity
+ENTY:food WHAT # cocktail cocktail appetizer course nutriment food substance matter
+HUM:gr WHAT # #
+DESC:manner HOW # ask necessitate
+ENTY:other WHAT # weapon weapon instrument device instrumentality artifact whole object
+LOC:country WHAT # country nation people group abstraction entity
+DESC:def WHAT DESC:def #
+HUM:ind WHO # prophet prophet religious_person person organism living_thing whole object
+DESC:desc WHERE # #
+HUM:ind WHO # Snoopy Snoopy fictional_character imaginary_being imagination creativity ability cognition
+DESC:def WHAT # nature nature type kind category concept idea content
+ENTY:color WHAT # color color appearance quality attribute abstraction entity
+ENTY:termeq WHAT # term terminus statue sculpture plastic_art art creation artifact
+LOC:state WHAT # U.S. United_States_government federal_government government polity organization social_group group
+DESC:def WHAT DESC:def #
+LOC:other WHERE # #
+DESC:def WHAT # definition definition explanation statement message communication abstraction entity
+LOC:country WHAT # country nation people group abstraction entity
+DESC:def WHAT DESC:def #
+HUM:ind WHO # Herb herb vascular_plant plant organism living_thing whole object
+LOC:city WHICH # city city municipality gathering social_group group abstraction entity
+DESC:def WHAT DESC:def #
+DESC:reason WHY # #
+LOC:other WHAT # names name sanction authorization management social_control group_action act
+DESC:reason WHAT # Cushman person grammatical_category class collection group abstraction entity
+LOC:other WHAT # body soundbox resonator chamber enclosure area structure artifact
+HUM:ind WHO # founder laminitis inflammation symptom evidence information cognition psychological_feature
+ENTY:other WHAT # Musca Musca constellation natural_object whole object physical_entity entity
+DESC:desc WHAT # history history continuum time attribute abstraction entity
+HUM:ind WHO # Singing singing vocal_music music activity act event psychological_feature
+DESC:manner HOW # make make cause make
+HUM:ind WHAT # painter painter line artifact whole object physical_entity entity
+ENTY:body WHAT # corpus corpus part thing physical_entity entity
+DESC:manner HOW # log log record save keep have
+LOC:country WHAT # country area region location object physical_entity entity
+ENTY:other WHAT # Nebraska Nebraska American_state state administrative_district district region location
+NUM:count HOW # many many
+DESC:desc WHAT # origin origin intersection set abstraction entity
+LOC:state WHAT # nickname nickname appellation name language_unit part relation abstraction
+ENTY:animal WHAT # bird bird meat food solid matter physical_entity entity
+NUM:count HOW # many many
+LOC:country WHAT # country area region location object physical_entity entity
+ENTY:dismed WHAT # fear fear emotion feeling state attribute abstraction entity
+HUM:ind WHO # Marx Marx philosopher scholar intellectual person organism living_thing
+NUM:date WHICH # year year time_period fundamental_quantity measure abstraction entity
+NUM:date WHEN # #
+DESC:reason WHAT DESC:reason #
+DESC:def WHAT # bear bear investor capitalist person organism living_thing whole
+ENTY:cremat WHAT # J.R.R. Junior son male_offspring child offspring relative person
+DESC:def WHAT DESC:def #
+DESC:def WHAT # meaning meaning idea content cognition psychological_feature abstraction entity
+HUM:gr WHAT # company ship's_company complement work_force force organization social_group group
+DESC:def WHAT # definition definition explanation statement message communication abstraction entity
+NUM:date WHEN # #
+LOC:country WHAT # country area region location object physical_entity entity
+HUM:ind WHO # Make-up constitution property attribute abstraction entity
+DESC:desc WHAT # origin origin intersection set abstraction entity
+DESC:desc WHAT # Delilah Delilah mistress woman female person organism living_thing
+ENTY:animal WHAT # kind kind category concept idea content cognition psychological_feature
+HUM:ind WHICH # following pursuit motion change action act event psychological_feature
+HUM:ind WHO # book script dramatic_composition writing written_communication communication abstraction entity
+DESC:manner HOW # make make cause make
+LOC:state WHAT # U.S. United_States_government federal_government government polity organization social_group group
+ENTY:animal WHAT # rabbit rabbit game meat food solid matter physical_entity
+LOC:mount WHERE # #
+DESC:desc WHERE # #
+LOC:other WHERE # #
+LOC:other WHAT # world world homo hominid primate placental mammal vertebrate
+ENTY:cremat WHAT # work work energy physical_phenomenon natural_phenomenon phenomenon process physical_entity
+ENTY:animal WHAT # snake Snake river stream body_of_water thing physical_entity entity
+ENTY:cremat WHAT # medium medium instrumentality artifact whole object physical_entity entity
+LOC:other WHERE # #
+NUM:money HOW # much much(a)
+ENTY:termeq WHAT # name name language_unit part relation abstraction entity
+DESC:def WHAT DESC:def #
+LOC:other WHERE # #
+ENTY:product WHICH # products product consequence phenomenon process physical_entity entity
+DESC:manner HOW # is be
+NUM:period HOW # long long
+DESC:manner HOW # have have
+DESC:desc WHAT # relationship relationship relation abstraction entity
+DESC:manner HOW # was be
+HUM:ind WHAT # crooner crooner singer musician performer entertainer person organism
+HUM:gr WHAT # piano piano keyboard_instrument musical_instrument device instrumentality artifact whole
+NUM:date WHEN # #
+ENTY:cremat WHAT # novel novel fiction literary_composition writing written_communication communication abstraction
+DESC:def WHAT DESC:def #
+ENTY:cremat WHAT # film movie show social_event event psychological_feature abstraction entity
+ENTY:animal WHAT # Hollywood Hollywood spirit atmosphere condition state attribute abstraction
+ENTY:substance WHAT # elements component part object physical_entity entity
+NUM:money HOW # much much(a)
+HUM:ind WHAT # actress actress actor performer entertainer person organism living_thing
+DESC:def WHAT DESC:def #
+DESC:def WHAT DESC:def #
+NUM:count HOW # many many
+LOC:other WHERE # #
+ENTY:animal WHAT # name name language_unit part relation abstraction entity
+LOC:city WHAT # city city municipality gathering social_group group abstraction entity
+ENTY:cremat WHAT # Broadway Broadway street thoroughfare road way artifact whole
+DESC:desc WHAT # origin origin intersection set abstraction entity
+NUM:count HOW # many many
+DESC:manner HOW # raise raise multiply calculate reason think
+ABBR:exp WHAT # INRI organization activity act event psychological_feature abstraction entity
+HUM:gr WHO # Spumante organization administration management social_control group_action act event
+HUM:ind WHO # money money currency medium_of_exchange standard system_of_measurement measure abstraction
+HUM:ind WHO # People citizenry group abstraction entity
+HUM:ind WHAT # athlete athlete contestant person organism living_thing whole object
+NUM:count HOW # many many
+HUM:ind WHO # electricity electricity energy physical_phenomenon natural_phenomenon phenomenon process physical_entity
+ENTY:body WHAT # part function duty work activity act event psychological_feature
+HUM:ind WHO # American American inhabitant person organism living_thing whole object
+LOC:country WHAT # countries area region location object physical_entity entity
+ENTY:cremat WHAT # album album book product creation artifact whole object
+ENTY:cremat WHAT # poem poem literary_composition writing written_communication communication abstraction entity
+DESC:def WHAT # root root structure body_part part thing physical_entity entity
+ENTY:event WHAT # war war hostility state attribute abstraction entity
+NUM:date WHAT # air air quality attribute abstraction entity
+ENTY:body WHAT # part part concern interest curiosity cognitive_state psychological_state condition
+DESC:def WHAT DESC:def #
+LOC:other WHERE # #
+HUM:gr WHICH # car car compartment room area structure artifact whole
+HUM:ind WHO # mayor mayor civil_authority authority person organism living_thing whole
+LOC:other WHAT # 14-mile nautical_mile nautical_linear_unit linear_unit unit_of_measurement definite_quantity measure abstraction
+NUM:date WHAT # year year time_period fundamental_quantity measure abstraction entity
+NUM:count HOW # many many
+LOC:other WHERE # #
+NUM:date WHAT # year year time_period fundamental_quantity measure abstraction entity
+HUM:ind WHO # themes theme idea content cognition psychological_feature abstraction entity
+HUM:ind WHO # Jaws jaw bone connective_tissue animal_tissue tissue body_part part
+ENTY:cremat WHAT # T.V. television broadcasting telecommunication medium instrumentality artifact whole
+HUM:gr WHAT # tribe tribe taxonomic_group biological_group group abstraction entity
+DESC:desc WHERE # #
+DESC:reason WHY # #
+NUM:count HOW # many many
+LOC:city WHAT # name name language_unit part relation abstraction entity
+LOC:other WHERE # #
+ENTY:sport WHAT # game game contest social_event event psychological_feature abstraction entity
+HUM:ind WHAT # name name language_unit part relation abstraction entity
+HUM:title WHAT # occupation occupation time_period fundamental_quantity measure abstraction entity
+DESC:reason WHY # #
+DESC:def WHAT # #
+DESC:reason WHAT DESC:reason #
+NUM:date WHAT # winter winter season time_period fundamental_quantity measure abstraction entity
+DESC:def WHAT DESC:def #
+LOC:country WHAT # country nation people group abstraction entity
+ENTY:dismed WHAT # therapy therapy medical_care treatment care work activity act
+LOC:other WHERE # #
+HUM:gr WHICH # Ventura location workplace geographic_point point location object physical_entity
+LOC:city WHAT # city city municipality gathering social_group group abstraction entity
+ENTY:body WHAT # tongue tongue flap covering artifact whole object physical_entity
+HUM:ind WHO # Dennis person grammatical_category class collection group abstraction entity
+HUM:ind WHAT # dummy dummy figure model representation creation artifact whole
+NUM:date WHEN # #
+LOC:country WHAT # countries area region location object physical_entity entity
+DESC:manner HOW # start begin act
+HUM:ind OTHER # Alvin person grammatical_category class collection group abstraction entity
+DESC:def WHAT # Eagle eagle score number definite_quantity measure abstraction entity
+DESC:manner HOW # die die break_down act
+NUM:date WHEN # #
+HUM:ind WHAT # actor actor person organism living_thing whole object physical_entity
+HUM:ind WHAT # explorer Internet_Explorer browser application program software code coding_system
+NUM:date WHAT # CNN organization activity act event psychological_feature abstraction entity
+ENTY:termeq WHAT # ball baseball ball_game field_game outdoor_game athletic_game sport diversion
+DESC:reason WHAT # taste taste sensation perception basic_cognitive_process process cognition psychological_feature
+HUM:gr WHICH # company ship's_company complement work_force force organization social_group group
+ENTY:event WHAT # rites rite religious_ceremony ceremony activity act event psychological_feature
+ENTY:other WHAT # education education profession occupation activity act event psychological_feature
+LOC:city WHAT # city city municipality gathering social_group group abstraction entity
+DESC:manner HOW # find find perceive
+DESC:reason WHAT # Betsy person grammatical_category class collection group abstraction entity
+NUM:count HOW # many many
+DESC:def WHAT DESC:def #
+NUM:count HOW # many many
+ENTY:plant WHAT # shrubs shrub woody_plant vascular_plant plant organism living_thing whole
+HUM:gr WHAT # organization organization activity act event psychological_feature abstraction entity
+DESC:desc WHAT # design design creating_by_mental_acts creation activity act event psychological_feature
+ABBR:exp WHAT # S.O.S. SOS distress_signal signal communication abstraction entity
+ENTY:techmeth OTHER # technique technique method know-how ability cognition psychological_feature abstraction
+DESC:desc WHAT # requirement prerequisite duty social_control group_action act event psychological_feature
+DESC:def WHAT # cigarette cigarette roll_of_tobacco tobacco plant_product plant_material material substance
+ENTY:other WHAT # forms phase state_of_matter chemical_phenomenon natural_phenomenon phenomenon process physical_entity
+NUM:volsize WHAT # acreage acreage area extent magnitude property attribute abstraction
+DESC:manner HOW # say pronounce
+NUM:date WHEN # #
+NUM:money HOW # much much(a)
+LOC:country WHAT # countries area region location object physical_entity entity
+DESC:def WHAT DESC:def #
+HUM:ind WHAT # composer composer musician artist creator person organism living_thing
+DESC:reason WHAT # Harry person grammatical_category class collection group abstraction entity
+HUM:ind WHO # mother mother parent genitor progenitor ancestor relative person
+NUM:count HOW # many many
+LOC:mount WHAT # name name language_unit part relation abstraction entity
+LOC:other WHERE # #
+ENTY:techmeth WHAT # swimming swimming water_sport sport diversion activity act event
+HUM:ind WHAT # name name language_unit part relation abstraction entity
+ENTY:dismed WHAT # disease disease illness ill_health pathological_state physical_condition condition state
+ENTY:food WHAT # rum rummy card_game game activity act event psychological_feature
+NUM:count HOW # many many
+DESC:def WHAT # contents content collection group abstraction entity
+LOC:other WHERE # #
+NUM:count HOW # many many
+HUM:ind WHO # Peter Peter Apostle Christian religious_person person organism living_thing
+DESC:def WHAT DESC:def #
+DESC:desc WHAT # powers power causal_agent physical_entity entity
+NUM:date WHEN # #
+HUM:ind WHAT # gymnast gymnast athlete contestant person organism living_thing whole
+DESC:desc WHAT # origin origin intersection set abstraction entity
+NUM:date WHEN # #
+HUM:desc WHO # Terrence person grammatical_category class collection group abstraction entity
+ENTY:instru WHAT # instrument instrumental_role semantic_role grammatical_category class collection group abstraction
+DESC:def WHAT # meaning meaning idea content cognition psychological_feature abstraction entity
+ENTY:other WHAT # mascot mascot organism living_thing whole object physical_entity entity
+LOC:other WHAT # Las Louisiana American_state state administrative_district district region location
+NUM:date WHEN # #
+ABBR:exp WHAT # CNN organization administration management social_control group_action act event
+NUM:date WHEN # #
+NUM:count HOW # many many
+DESC:def WHAT # Canada Canada North_American_country country administrative_district district region location
+LOC:city WHAT # city city municipality gathering social_group group abstraction entity
+DESC:manner HOW # find find perceive
+DESC:def WHAT # definition definition explanation statement message communication abstraction entity
+ENTY:other WHAT # Microsoft organization administration management social_control group_action act event
+HUM:ind WHO # President President_of_the_United_States head_of_state representative negotiator communicator person organism
+ENTY:techmeth WHAT # ways way category concept idea content cognition psychological_feature
+ENTY:food WHAT # brontosauruses apatosaur sauropod saurischian dinosaur archosaur diapsid reptile
+ENTY:color WHAT # color color visual_property property attribute abstraction entity
+HUM:ind WHO # actress actress actor performer entertainer person organism living_thing
+HUM:ind WHO # President President_of_the_United_States head_of_state representative negotiator communicator person organism
+HUM:ind WHO # sons Son hypostasis Godhead God spiritual_being belief content
+DESC:def WHAT DESC:def #
+NUM:date WHEN # #
+ENTY:other WHAT # level degree state attribute abstraction entity
+NUM:date WHEN # #
+NUM:count HOW # many many
+ENTY:animal WHAT # animal animal organism living_thing whole object physical_entity entity
+NUM:date WHEN # #
+NUM:volsize WHAT # size size situation state attribute abstraction entity
+ENTY:animal WHAT # animal animal organism living_thing whole object physical_entity entity
+LOC:city WHAT # California California American_state state administrative_district district region location
+HUM:ind WHO # author writer communicator person organism living_thing whole object
+HUM:ind WHO # member member unit organization social_group group abstraction entity
+LOC:country WHAT # country area region location object physical_entity entity
+DESC:manner HOW # find witness experience undergo change
+DESC:desc WHAT # history history continuum time attribute abstraction entity
+LOC:other WHERE # #
+ENTY:termeq WHAT # Italians Italian European inhabitant person organism living_thing whole
+DESC:manner HOW # get get_down
+ABBR:exp WHAT # PSI psi letter character written_symbol symbol signal communication
+LOC:other WHAT # sea sea body_of_water thing physical_entity entity
+ENTY:termeq WHAT # term terminus statue sculpture plastic_art art creation artifact
+ENTY:animal WHICH # Genesis Genesis book section writing written_communication communication abstraction
+LOC:city WHAT # city city municipality gathering social_group group abstraction entity
+ENTY:termeq WHAT # Latin Latin person organism living_thing whole object physical_entity
+NUM:volsize WHAT # size size situation state attribute abstraction entity
+NUM:dist HOW # far far
+ENTY:dismed WHAT # chemicals chemical material substance matter physical_entity entity
+HUM:gr WHAT # toy miniature copy representation creation artifact whole object
+ENTY:sport WHAT # board board lumber building_material artifact whole object physical_entity
+HUM:ind WHICH # #
+ABBR:abb WHAT # abbreviation abbreviation form word language_unit part relation abstraction
+ENTY:other WHAT # articles article determiner function_word word language_unit part relation
+HUM:gr WHO # Super superintendent caretaker custodian defender preserver person organism
+ABBR:exp WHAT # NASDAQ National_Association_of_Securities_Dealers_Automated_Quotations data_system system instrumentality artifact whole object
+ABBR:exp WHAT DESC:def #
+ENTY:other WHAT # automobile car motor_vehicle self-propelled_vehicle wheeled_vehicle vehicle conveyance instrumentality
+LOC:other WHAT # stadium stadium structure artifact whole object physical_entity entity
+HUM:ind WHO # speaking speaking utterance auditory_communication communication abstraction entity
+DESC:reason WHY # #
+NUM:other WHAT # Einstein Einstein physicist scientist person organism living_thing whole
+NUM:date WHAT # day day time_period fundamental_quantity measure abstraction entity
+HUM:ind WHAT # girl girlfriend woman female person organism living_thing whole
+LOC:state WHAT # state state_of_matter chemical_phenomenon natural_phenomenon phenomenon process physical_entity entity
+ENTY:techmeth WHAT # way way category concept idea content cognition psychological_feature
+LOC:state WHAT # U.S. United_States_government federal_government government polity organization social_group group
+HUM:gr WHAT # company ship's_company complement work_force force organization social_group group
+DESC:manner HOW # start get_down
+NUM:count HOW # many many
+LOC:other WHAT # area sphere environment situation state attribute abstraction entity
+ENTY:color WHAT # Halloween Halloween day calendar_day time_period fundamental_quantity measure abstraction
+DESC:manner HOW # is be
+NUM:other WHAT # latitude latitude angular_distance angle space amorphous_shape shape attribute
+HUM:ind WHO # boat gravy_boat dish crockery tableware ware article artifact
+LOC:other WHERE # #
+HUM:ind WHICH # Bloom bloom good_health physical_condition condition state attribute abstraction
+DESC:manner HOW # match equal compete
+DESC:manner HOW # form imprint influence affect change
+NUM:other WHAT # heart kernel content cognition psychological_feature abstraction entity
+NUM:other WHAT # population population integer number definite_quantity measure abstraction entity
+NUM:count HOW # many many
+DESC:def WHAT # Hazmat HAZMAT material substance matter physical_entity entity
+ENTY:animal WHAT # creature creature slave person organism living_thing whole object
+HUM:ind WHAT # part function duty work activity act event psychological_feature
+HUM:ind WHO # Caesar Caesar general general_officer commissioned_military_officer commissioned_officer military_officer serviceman
+ENTY:substance WHAT DESC:def #
+HUM:ind WHO # woman woman female person organism living_thing whole object
+ENTY:other WHAT # piece piece part object physical_entity entity
+LOC:other WHAT # Answers.com answer pleading statement message communication abstraction entity
+LOC:other WHERE # #
+HUM:ind WHO # advertizing ad promotion message communication abstraction entity
+HUM:gr WHO # competitor rival contestant person organism living_thing whole object
+ENTY:product WHAT # product product consequence phenomenon process physical_entity entity
+HUM:ind WHO # radio radio communication_system system instrumentality artifact whole object
+NUM:count WHAT # dollar dollar symbol signal communication abstraction entity
+ENTY:techmeth WHAT # approaches approach conceptualization creating_by_mental_acts creation activity act event
+DESC:manner HOW # diagnose diagnose analyze
+HUM:ind WHO # man man male person organism living_thing whole object
+NUM:speed WHAT # speed focal_ratio ratio magnitude_relation relation abstraction entity
+ENTY:other WHAT # stages degree state attribute abstraction entity
+HUM:ind WHAT # actor actor person organism living_thing whole object physical_entity
+LOC:other WHAT # ocean ocean body_of_water thing physical_entity entity
+HUM:ind WHO # poet poet writer communicator person organism living_thing whole
+NUM:date WHAT # year year time_period fundamental_quantity measure abstraction entity
+NUM:count HOW # many many
+DESC:reason WHAT DESC:reason #
+HUM:ind WHO # Nobel Nobel chemist scientist person organism living_thing whole
+HUM:gr WHO # Challengers rival contestant person organism living_thing whole object
+DESC:def OTHER # Pheonix organization administration management social_control group_action act event
+LOC:city WHICH # city city municipality gathering social_group group abstraction entity
+DESC:def WHAT # Rupee Sri_Lanka_rupee Sri_Lankan_monetary_unit monetary_unit unit_of_measurement definite_quantity measure abstraction
+ENTY:other WHAT # gaming gambling diversion activity act event psychological_feature abstraction
+HUM:ind WHO # coach coach trainer leader person organism living_thing whole
+DESC:manner HOW # successful successful
+ENTY:event WHAT # holiday holiday day calendar_day time_period fundamental_quantity measure abstraction
+DESC:manner HOW # work solve understand
+NUM:speed WHAT # speed focal_ratio ratio magnitude_relation relation abstraction entity
+HUM:ind WHO # Super superintendent caretaker custodian defender preserver person organism
+ENTY:animal WHAT # Dudley person grammatical_category class collection group abstraction entity
+HUM:ind WHO # whores prostitute woman female person organism living_thing whole
+LOC:other WHERE # #
+ENTY:cremat WHAT # TV television broadcasting telecommunication medium instrumentality artifact whole
+HUM:ind WHAT # leader leader person organism living_thing whole object physical_entity
+LOC:other WHERE # #
+ENTY:event WHAT # war war hostility state attribute abstraction entity
+HUM:ind WHO # song song sound happening event psychological_feature abstraction entity
+NUM:count HOW # many many
+HUM:ind WHO # minister minister executive administrator head leader person organism
+ABBR:abb WHAT # abbreviation abbreviation form word language_unit part relation abstraction
+LOC:mount WHAT # mountains mountain natural_elevation geological_formation object physical_entity entity
+HUM:ind WHO # Will will purpose goal content cognition psychological_feature abstraction
+DESC:reason WHAT # function function mathematical_relation relation abstraction entity
+LOC:other WHAT # G2 g force_unit unit_of_measurement definite_quantity measure abstraction entity
+NUM:count HOW # many many
+ENTY:dismed WHAT # fear fear emotion feeling state attribute abstraction entity
+ENTY:cremat WHAT # CBS organization administration management social_control group_action act event
+DESC:desc WHAT # use use legal_right right abstraction concept idea content
+HUM:ind WHAT # name name language_unit part relation abstraction entity
+HUM:ind WHAT # United location workplace geographic_point point location object physical_entity
+ENTY:cremat WHAT # film movie show social_event event psychological_feature abstraction entity
+LOC:other WHERE # #
+ENTY:product WHAT # product product chemical material substance matter physical_entity entity
+NUM:date WHAT # time time attribute abstraction entity
+DESC:def WHAT DESC:def #
+ENTY:other WHAT # card circuit_board printed_circuit computer_circuit circuit electrical_device device instrumentality
+DESC:def WHAT DESC:def #
+NUM:count HOW # many many
+ENTY:food WHAT # crop craw stomach internal_organ organ body_part part thing
+LOC:city WHAT # South south location object physical_entity entity
+NUM:count HOW # many many
+ENTY:cremat WHAT # television television telecommunication_system communication_system system instrumentality artifact whole
+ENTY:animal WHAT # predators predator animal organism living_thing whole object physical_entity
+DESC:desc WHAT # difference remainder number definite_quantity measure abstraction entity
+DESC:manner HOW # is be
+ENTY:food WHAT # beer beer brew alcohol beverage food substance matter
+NUM:other WHAT # quantity quantity concept idea content cognition psychological_feature abstraction
+ENTY:techmeth WHAT # golfing golfing playing action act event psychological_feature abstraction
+ENTY:other WHAT # types type block artifact whole object physical_entity entity
+DESC:manner HOW # is be
+LOC:mount WHAT # mountain mountain natural_elevation geological_formation object physical_entity entity
+LOC:other WHERE # #
+LOC:country WHAT # country area region location object physical_entity entity
+NUM:date WHEN # #
+HUM:gr WHAT # people citizenry group abstraction entity
+ENTY:cremat WHAT # movie movie show social_event event psychological_feature abstraction entity
+LOC:city WHAT # Nevada Nevada American_state state administrative_district district region location
+HUM:ind WHAT # President President_of_the_United_States head_of_state representative negotiator communicator person organism
+DESC:reason OTHER # reason reason rational_motive motivation psychological_feature abstraction entity
+LOC:other WHERE # #
+DESC:desc WHAT # difference remainder number definite_quantity measure abstraction entity
+LOC:state WHAT # U.S. United_States North_American_country country administrative_district district region location
+DESC:desc WHAT # facts fact information message communication abstraction entity
+NUM:date WHAT # year year time_period fundamental_quantity measure abstraction entity
+HUM:ind WHAT # model model assistant worker person organism living_thing whole
+ENTY:animal WHAT # kind kind category concept idea content cognition psychological_feature
+DESC:reason WHAT # Jane person grammatical_category class collection group abstraction entity
+ENTY:other WHAT # Bob bobsled sled vehicle conveyance instrumentality artifact whole
+NUM:money HOW # much much(a)
+HUM:ind WHO # stardom stardom high_status status state attribute abstraction entity
+HUM:desc WHO # Stein beer_mug mug drinking_vessel vessel container instrumentality artifact
+DESC:def WHAT DESC:def #
+HUM:ind WHO # swimmer swimmer athlete contestant person organism living_thing whole
+LOC:mount WHAT # peak acme degree state attribute abstraction entity
+LOC:other WHERE # #
+LOC:other WHAT # desert desert deservingness worthiness good quality attribute abstraction
+ENTY:other WHAT # animals animal organism living_thing whole object physical_entity entity
+DESC:reason WHAT # function function mathematical_relation relation abstraction entity
+ENTY:dismed WHAT # fear fear emotion feeling state attribute abstraction entity
+NUM:count HOW # many many
+NUM:count HOW # much much(a)
+ABBR:exp WHAT # G.M.T. Greenwich_Mean_Time time attribute abstraction entity
+DESC:def WHAT DESC:def #
+ENTY:cremat WHAT # song Sung dynasty family lineage genealogy kin social_group
+ENTY:sport WHAT # field field region location object physical_entity entity
+DESC:manner HOW # tie tie shape change
+NUM:date WHEN # #
+DESC:reason WHY # #
+HUM:ind WHAT # actor actor person organism living_thing whole object physical_entity
+HUM:ind WHAT # spy spy secret_agent agent representative negotiator communicator person
+LOC:other WHERE # #
+DESC:reason WHAT # nature nature type kind category concept idea content
+HUM:ind WHO # Charlie person grammatical_category class collection group abstraction entity
+LOC:other WHERE # #
+ENTY:word WHAT # word Son hypostasis Godhead God spiritual_being belief content
+ENTY:instru WHAT # instrument instrumental_role semantic_role grammatical_category class collection group abstraction
+LOC:other WHERE # #
+DESC:reason WHAT # popcorn popcorn corn cereal grass gramineous_plant herb vascular_plant
+HUM:ind WHO # Night night time_unit measure abstraction entity
+ENTY:body WHERE # #
+LOC:country WHAT # country state political_unit unit organization social_group group abstraction
+HUM:ind WHO # Mother mother parent genitor progenitor ancestor relative person
+NUM:speed WHAT # speed focal_ratio ratio magnitude_relation relation abstraction entity
+LOC:other WHAT # area area body_part part thing physical_entity entity
+LOC:other WHAT # star star_topology topology configuration design arrangement structure cognition
+ENTY:cremat WHAT # film movie show social_event event psychological_feature abstraction entity
+HUM:ind WHAT # Mao monoamine_oxidase enzyme protein macromolecule molecule unit thing
+ENTY:cremat WHAT # film movie show social_event event psychological_feature abstraction entity
+LOC:other WHERE # #
+HUM:desc WHO # Queen queen face_card playing_card card paper material substance
+ENTY:lang WHAT # language language communication abstraction entity
+HUM:ind WHO # DNA deoxyribonucleic_acid polymer compound chemical material substance matter
+DESC:def WHAT # Maid-Rites maid domestic servant worker person organism living_thing
+ENTY:cremat WHAT # children child descendant relative person organism living_thing whole
+HUM:gr WHAT # level degree state attribute abstraction entity
+NUM:count HOW # many many
+ENTY:food WHAT # cocktail cocktail appetizer course nutriment food substance matter
+ENTY:termeq HOW # say suppose speculate reason think
+DESC:desc WHAT # bee bee social_gathering gathering social_group group abstraction entity
+DESC:reason WHAT # Lynmouth placement activity act event psychological_feature abstraction entity
+NUM:date WHEN # #
+HUM:ind WHO # name name language_unit part relation abstraction entity
+ENTY:cremat WHAT # movie movie show social_event event psychological_feature abstraction entity
+ENTY:other WHAT # type type block artifact whole object physical_entity entity
+HUM:ind WHAT # dictator dictator speaker articulator communicator person organism living_thing
+HUM:gr WHAT # stereo stereo reproducer audio_system electronic_equipment equipment instrumentality artifact
+LOC:city WHAT # U.S. United_States North_American_country country administrative_district district region location
+HUM:ind WHAT # TV television_receiver receiver set electronic_equipment equipment instrumentality artifact
+ENTY:food WHAT # Lifesaver life_buoy life_preserver float artifact whole object physical_entity
+HUM:ind WHO # diary diary writing written_communication communication abstraction entity
+LOC:other WHERE # #
+NUM:count HOW # many many
+HUM:ind WHAT # artist artist creator person organism living_thing whole object
+ENTY:cremat WHAT # bible bible handbook reference_book book publication work product
+DESC:reason WHY # #
+DESC:def WHAT DESC:def #
+HUM:ind WHAT # spy spy secret_agent agent representative negotiator communicator person
+HUM:gr WHICH # oil oil lipid macromolecule molecule unit thing physical_entity
